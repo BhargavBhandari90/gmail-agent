@@ -1,4 +1,4 @@
-# My Bluesky AI Posting Agent
+# My Gmail AI Agent
 
 This agent sends email to my users whose plugin trial is over for last 7 days.
 
